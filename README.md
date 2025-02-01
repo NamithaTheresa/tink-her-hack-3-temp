@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [GAME HUB] 🎯
 
 
 ## Basic Details
