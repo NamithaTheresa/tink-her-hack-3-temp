@@ -1,47 +1,41 @@
-# [Project Name] 🎯
+# game hub 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: hackaholikz
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: namitha theresa vj - AISAT
+- Member 2: ann mary philip - AISAT
+- Member 3: melisa prince - AISAT
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[ultimate gaming hub including three games]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[different games require seperate platforms]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[provides differnt games in one platform]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [python]
+- [tkinter]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+[tkinter]
+[IDLE]
+[python]
 # Run
-[commands]
+[run python file]
 
 ### Project Documentation
 For Software:
@@ -91,9 +85,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Namitha theresa vj]: [design]
+- [ann mary philip]: [front end]
+- [melisa prince]: [back end]
 
 ---
 Made with ❤️ at TinkerHub
