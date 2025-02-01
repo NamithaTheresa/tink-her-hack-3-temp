@@ -43,7 +43,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/drive/folders/1XBpfvSw4hPl4R7hBJwNottLzBUw0vdos?usp=drive_link](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -80,7 +80,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/drive/folders/1ezU3uHitW8dRW4vFzXewhRxFx11j2j5t?usp=drive_link]
 *Explain what the video demonstrates*
 
 # Additional Demos
