@@ -2,43 +2,39 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Hackaholikz]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Namitha Theresa VJ] - [AISAT]
+- Member 2: [Ann Mary Philip] - [AISAT]
+- Member 3: [Melisa Prince] - [AISAT]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[ultimate game hub]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[different games separate platforms]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[different games same platform]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [tkinter,python]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
+
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[tkinter]
 
 # Run
 [commands]
@@ -91,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [namitha]: [design]
+- [ann]: [front end]
+- [melisa]: [backend]
 
 ---
 Made with ❤️ at TinkerHub
