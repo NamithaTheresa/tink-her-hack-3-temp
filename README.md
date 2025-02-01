@@ -87,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [namitha]: [design]
-- [ann]: [front end]
-- [melisa]: [backend]
+- [Namitha]: [design]
+- [Ann]: [front end]
+- [Melisa]: [backend]
 
 ---
 Made with ❤️ at TinkerHub
